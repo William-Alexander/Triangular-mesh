@@ -11,3 +11,8 @@ As long as I'm not finished and not sharing this code with anyone, I can outline
 3) Draw it nice and pretty. Pick colors for each triangle by... uh, some means? Perhaps by converting the colors to a color space with different parameters, picking one of them, and then just averaging over the triangle. Idk. We'll see! 
 
 That's the main body of it! There'll surely be other hiccups, like how do I make things of sufficient resolution to print well, etc... but those 3 should constitute the actual code. Let's get working.
+
+
+# Day 1
+
+Let's get step 1 finished today. The algorithm doesn't have to be perfect, but I'd like it to be, like, not entirely garbage. It's plenty easy to tweak later, but I'd like something manageable today.
